@@ -18,7 +18,7 @@ The repository is organized as follows:
 ├── README.md
 ├── questions/
 │   ├── [x] 1. Contains Duplicate
-    ├── [] 2. 
+    ├── [x] 2. Missing Number
     ├── [] 3. 
     ├── [] 4.    
     ├── [] 5.
