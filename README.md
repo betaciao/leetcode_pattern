@@ -19,7 +19,7 @@ The repository is organized as follows:
 ├── questions/
 │   ├── [x] 1. Contains Duplicate
     ├── [x] 2. Missing Number
-    ├── [] 3. 
+    ├── [x] 3. Find All Numbers Dissapeared
     ├── [] 4.    
     ├── [] 5.
     ├── [] 6.
